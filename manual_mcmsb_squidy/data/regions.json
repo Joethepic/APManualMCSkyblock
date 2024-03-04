@@ -1,0 +1,22 @@
+{
+	"Smelerty": 	{
+		"connects_to": [],
+		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Lava|"
+	},
+	"Nether": 	{
+		"connects_to": [],
+		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Nether| AND |Iron sapling| AND |Lava|"
+	},
+	"Diamonds": 	{
+		"requires": "|Silver sapling| AND |Gold sapling| AND |Lapis sapling| AND |Redstone sapling|",
+		"connects_to": []
+	},
+	"Beds": 	{
+		"connects_to": [],
+		"requires": "( |Grass Block| OR |Village| )"
+	},
+	"ME Storage": 	{
+		"connects_to": [],
+		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Certus Quarts| AND |Osmium sapling| AND |Greenheart sapling| AND |Copper sapling| AND |Iron sapling| AND |Water| AND |Lava|"
+}
+}

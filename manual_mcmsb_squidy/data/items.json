@@ -1,0 +1,224 @@
+[
+	{
+		"count": "4",
+		"name": "3 Iron ore ",
+		"category": ["items"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Iron sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count": "30",
+		"name": "Victory piece",
+		"category": ["Victory"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "3",
+		"name": "Progressive Tinkers Stations",
+		"category": ["Recipes"],
+		"progression": true
+	},
+	{
+		"count":3,
+		"name": "Progressive Tinkers Smeltery",
+		"category": ["items"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Certus Quarts",
+		"category": ["items"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Netherrack sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lead Sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Gravel sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sand sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Silver sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Copper sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Village",
+		"category": ["structure"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Grout",
+		"category": ["Recipes"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mrcrayfish outdoor",
+		"category": ["Recipes"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mrcrayfish doors",
+		"category": ["Recipes"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "donut sapling",
+		"category": ["Recipes","Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Portal Gun",
+		"category": ["items"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Nether",
+		"category": ["Demensions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Osmium sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Metallurgic Infuser",
+		"category": ["Recipes"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Gold sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lapis sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Redstone sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Greenheart sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sugar Cane",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vines",
+		"category": ["items"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cactus",
+		"category": ["items"],
+		"progression": true
+	},
+	{
+		"count": "19",
+		"name": "Bonsi pot",
+		"category": ["items"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Grass Block",
+		"category": ["items"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Water",
+		"category": ["items"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Regular saplings",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Netherrite",
+		"category": ["items"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lava",
+		"category": ["items"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "End city",
+		"category": ["structure"],
+		"progression": true
+	},
+	{
+		"count": "9",
+		"name": "Throw 64 of any item into the void ",
+		"category": ["Traps"],
+		"trap": true
+	},
+	{
+		"count": "2",
+		"name": "Can't use slots hotbar slots 6-0 for 1 minute",
+		"category": ["Traps"],
+		"trap": true
+	}
+]

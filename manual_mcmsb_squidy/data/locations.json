@@ -1,0 +1,550 @@
+[
+	{
+		"victory": true,
+		"name": "collect 20 victory pieces",
+		"category": [],
+		"requires": "|Victory piece:20|"
+	},
+	{
+		"name": "Cobblestone",
+		"category": ["Farming"],
+		"requires": []
+	},
+	{
+		"name": "Furnace",
+		"category": ["Farming"],
+		"requires": []
+	},
+	{
+		"name": "Petrified amber",
+		"category": ["Farming"],
+		"requires": []
+	},
+	{
+		"name": "Place a cottage oak door",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Place any trampoline",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Place any picket gate",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Craft a donut amber",
+		"category": ["Farming"],
+		"requires": "|donut sapling|"
+	},
+	{
+		"name": "Craft a Casting table",
+		"category": ["Tinkers"],
+		"requires": "|Grout| AND |Sand sapling| AND |Gravel sapling|"
+	},
+	{
+		"name": "Craft any elevator",
+		"category": ["Machines"],
+		"requires": []
+	},
+	{
+		"name": "Obtain a Smeltery Controller",
+		"category": ["Tinkers"],
+		"requires": "|Progressive Tinkers Smeltery|"
+	},
+	{
+		"name": "Obtain a Seared Fuel Tank",
+		"category": ["Tinkers"],
+		"requires": "|Progressive Tinkers Smeltery:2|"
+	},
+	{
+		"name": "Obtain a Seared Drain",
+		"category": ["Tinkers"],
+		"requires": "|Progressive Tinkers Smeltery:3|"
+	},
+	{
+		"name": "Build a working smeltery",
+		"category": ["Tinkers"],
+		"region": "Smelerty",
+		"requires": []
+	},
+	{
+		"name": "Craft brewing stand",
+		"region": "Nether",
+		"category": ["demensions"],
+		"requires": []
+	},
+	{
+		"name": "Craft a Enrichment Chamber",
+		"category": ["Machines"],
+		"region": "Smelerty",
+		"requires": "|Metallurgic Infuser| AND |Osmium sapling|"
+	},
+	{
+		"name": "Place a Oak Desk Cabinet",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Craft a Powered Rail",
+		"category": ["Gadgets"],
+		"requires": "|Gold sapling| AND |Redstone sapling|"
+	},
+	{
+		"name": "Visit the nether",
+		"region": "Nether",
+		"category": ["demensions"],
+		"requires": []
+	},
+	{
+		"name": "Craft nether grout",
+		"region": "Nether",
+		"category": ["demensions"],
+		"requires": "|Greenheart sapling|"
+	},
+	{
+		"name": "Observe dirt path",
+		"category": ["Farming"],
+		"requires": []
+	},
+	{
+		"name": "Craft Slime Sling",
+		"category": ["Gadgets"],
+		"requires": "|Greenheart sapling| AND |Vines|"
+	},
+	{
+		"name": "Craft Sticky piston",
+		"category": ["Machines"],
+		"requires": "|Greenheart sapling|",
+		"region": "Smelerty"
+	},
+	{
+		"name": "Craft Lime stained glass",
+		"category": ["Other"],
+		"requires": "|Cactus| AND |Sand sapling|"
+	},
+	{
+		"name": "Craft Lightning rod",
+		"category": ["Gadgets"],
+		"requires": "|Copper sapling|",
+		"region": "Smelerty"
+	},
+	{
+		"name": "Craft Jukebox",
+		"category": ["Machines"],
+		"region": "Diamonds",
+		"requires": []
+	},
+	{
+		"name": "Place White bed",
+		"category": ["Furnature"],
+		"region": "Beds"
+	},
+	{
+		"name": "Place orange bed",
+		"region": "Beds",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Place Magenta bed",
+		"region": "Beds",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Place Light Blue bed",
+		"region": "Beds",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Place Yellow bed",
+		"region": "Beds",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Place Lime bed",
+		"category": ["Furnature"],
+		"requires": "( |Village| OR |Cactus| AND |Grass Block| )"
+	},
+	{
+		"name": "Place Pink bed",
+		"region": "Beds",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Place Grey bed",
+		"category": ["Furnature"],
+		"requires": "( |Village| OR |Water| )"
+	},
+	{
+		"region": "Beds",
+		"name": "Place Light Grey bed",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Place Cyan bed",
+		"category": ["Furnature"],
+		"requires": "( |Village| OR ( |Cactus| AND ( |Grass Block| OR |Lapis sapling| ) ) )"
+	},
+	{
+		"name": "Place purple bed",
+		"region": "Beds",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Place blue bed",
+		"category": ["Furnature"],
+		"requires": "( |Village| OR ( |Grass Block| OR |Lapis sapling| ) )"
+	},
+	{
+		"name": "Place brown bed",
+		"category": ["Furnature"],
+		"requires": "|Regular saplings|"
+	},
+	{
+		"name": "Place green bed",
+		"category": ["Furnature"],
+		"requires": "( |Village| OR |Cactus| )"
+	},
+	{
+		"name": "Place red bed",
+		"region": "Beds",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Place black bed",
+		"category": ["Furnature"],
+		"requires": "( |Village| OR |Water| AND |Grass Block| )"
+	},
+	{
+		"name": "Place all beds",
+		"category": ["Furnature"],
+		"requires": "( |Village| OR |Water| AND |Cactus| AND |Grass Block| )"
+	},
+	{
+		"name": "Craft a inscriber",
+		"region": "Smelerty",
+		"category": ["Applied energetics 2"],
+		"requires": "|Greenheart sapling| AND |Copper sapling|"
+	},
+	{
+		"name": "Craft a energy acceptor",
+		"region": "ME Storage",
+		"category": ["Applied energetics 2"],
+		"requires": []
+	},
+	{
+		"name": "Craft a ME Drive",
+		"region": "ME Storage",
+		"category": ["Applied energetics 2"],
+		"requires": []
+	},
+	{
+		"name": "Craft a ME Chest",
+		"region": "ME Storage",
+		"category": ["Applied energetics 2"],
+		"requires": []
+	},
+	{
+		"name": "Craft a ME Terminal",
+		"region": "ME Storage",
+		"category": ["Applied energetics 2"],
+		"requires": []
+	},
+	{
+		"name": "Complete a working ME storage system 1",
+		"region": "ME Storage",
+		"category": ["Applied energetics 2"],
+		"requires": []
+	},
+	{
+		"name": "Complete a working ME storage system 2",
+		"region": "ME Storage",
+		"category": ["Applied energetics 2"],
+		"requires": []
+	},
+	{
+		"name": "Craft copper bow limb",
+		"region": "Smelerty",
+		"category": ["Tinkers"],
+		"requires": "|Progressive Tinkers Stations| AND |Copper sapling|"
+	},
+	{
+		"name": "Craft a block of emerald",
+		"category": ["Other"],
+		"requires": "|Village| "
+	},
+	{
+		"name": "Place a clear item frame",
+		"category": ["Furnature"],
+		"requires": "( |Sand sapling| OR |Village| )"
+	},
+	{
+		"name": "Catch a fish",
+		"category": ["Farming"],
+		"requires": "|Water|"
+	},
+	{
+		"name": "Eat a cake",
+		"category": ["Farming"],
+		"region": "Smelerty",
+		"requires": "( |Grass Block| AND |Sugar Cane| AND |Sand sapling| OR |Village| )"
+	},
+	{
+		"name": "Craft a spatula",
+		"category": ["Furnature"],
+		"region": "Smelerty",
+		"requires": "( |Water| OR |Village| ) AND |Iron sapling|"
+	},
+	{
+		"name": "Craft a Fluix Wall",
+		"category": ["Applied energetics 2"],
+		"region": "ME Storage",
+		"requires": "|Water|"
+	},
+	{
+		"name": "Craft a Golden Apple",
+		"category": ["Other"],
+		"region": "ME Storage",
+		"requires": "|Regular saplings| AND |Gold sapling|"
+	},
+	{
+		"name": "Place Stripped Spruce blinds",
+		"category": ["Furnature"],
+		"requires": "|Regular saplings|"
+	},
+	{
+		"name": "Obtain a crossbow",
+		"category": ["Other"],
+		"requires": "( |Village| OR |Iron sapling| AND |Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| )",
+		"region": "Smelerty"
+	},
+	{
+		"name": "Craft a yellow sofa",
+		"category": ["Furnature"],
+		"region": "Beds",
+		"requires": []
+	},
+	{
+		"name": "Craft lead amber",
+		"category": ["Farming"],
+		"requires": "|Lead Sapling|"
+	},
+	{
+		"name": "Craft a clock",
+		"category": ["Gadgets"],
+		"requires": "|Gold sapling| AND |Redstone sapling|"
+	},
+	{
+		"name": "Place black carpet",
+		"category": ["Furnature"],
+		"requires": "( |Village| OR |Water| AND |Grass Block| )"
+	},
+	{
+		"name": "Craft cookie amber",
+		"category": ["Farming"],
+		"requires": "|Sugar Cane| AND |Village|"
+	},
+	{
+		"name": "Obtain 64 rotten flesh",
+		"category": ["Other"],
+		"requires": []
+	},
+	{
+		"name": "Craft a quartz skurikin",
+		"category": ["Other"],
+		"requires": "|Netherrack sapling|"
+	},
+	{
+		"name": "Craft detector rail",
+		"region": "Smelerty",
+		"category": ["Gadgets"],
+		"requires": "|Iron sapling| AND |Redstone sapling|"
+	},
+	{
+		"name": "Craft rail",
+		"region": "Smelerty",
+		"category": ["Gadgets"],
+		"requires": "( |Iron sapling| OR |Osmium sapling| )"
+	},
+	{
+		"name": "Craft activator rail",
+		"region": "Smelerty",
+		"category": ["Gadgets"],
+		"requires": "|Iron sapling| AND |Redstone sapling|"
+	},
+	{
+		"name": "Place dark oak rail bridge",
+		"category": ["Furnature"],
+		"requires": "|Regular saplings|"
+	},
+	{
+		"name": "Obtain 8 cooked mutton",
+		"category": ["Other"],
+		"requires": "|Grass Block|"
+	},
+	{
+		"name": "Craft a common backpack",
+		"category": ["Other"],
+		"requires": []
+	},
+	{
+		"name": "Craft a uncommon backpack",
+		"category": ["Other"],
+		"requires": "|Gold sapling| AND |Grass Block|"
+	},
+	{
+		"name": "Craft a rare backpack",
+		"category": ["Other"],
+		"requires": "|Gold sapling| AND |Grass Block|",
+		"region": "Diamonds"
+	},
+	{
+		"name": "Craft a epic backpack",
+		"category": ["Other"],
+		"requires": "|Gold sapling| AND |Grass Block| AND |Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Nether| AND |Iron sapling|",
+		"region": "Diamonds"
+	},
+	{
+		"name": "Craft a Legendary backpack",
+		"category": ["Other"],
+		"requires": "|Gold sapling| AND |Grass Block| AND |Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Nether| AND |Iron sapling| AND |Netherrite|",
+		"region": "Diamonds"
+	},
+	{
+		"name": "Craft a nether quarts wrench",
+		"category": ["Other"],
+		"requires": "|Netherrack sapling|"
+	},
+	{
+		"name": "Make Any tinkers crossbow",
+		"category": ["Tinkers"],
+		"requires": "|Progressive Tinkers Stations:2|"
+	},
+	{
+		"name": "Craft a EFLN",
+		"category": ["Gadgets"],
+		"requires": "|Gravel sapling|"
+	},
+	{
+		"name": "Obtain a nether star",
+		"region": "Diamonds",
+		"category": ["Other"],
+		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Nether| AND |Iron sapling|"
+	},
+	{
+		"name": "Obtain a bookshelf",
+		"category": ["Other"],
+		"requires": "( |Village| OR ( |Grass Block| AND |Sugar Cane| ) OR ( |Greenheart sapling| AND |Sugar Cane| )\n"
+	},
+	{
+		"name": "Place a oak desk",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Craft flint broad blade",
+		"category": ["tinkers"],
+		"requires": "|Progressive Tinkers Stations:2|"
+	},
+	{
+		"name": "Craft a carrot on a stick",
+		"category": ["Gadgets"],
+		"requires": "( |Village| OR |Vines| AND |Regular saplings| )"
+	},
+	{
+		"name": "Obtained orange terracotta",
+		"region": "Beds",
+		"category": ["Other"],
+		"requires": []
+	},
+	{
+		"name": "Place clear brown stained glass",
+		"region": "Smelerty",
+		"category": ["Furnature"],
+		"requires": "|Regular saplings|"
+	},
+	{
+		"name": "Place sliding glass door",
+		"region": "Smelerty",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Craft silver amber",
+		"category": ["Farming"],
+		"requires": "|Silver sapling|"
+	},
+	{
+		"name": "Craaft a wireless acess point",
+		"region": "ME Storage",
+		"category": ["Applied energetics 2"],
+		"requires": []
+	},
+	{
+		"name": "Place bricks",
+		"category": ["Furnature"],
+		"requires": []
+	},
+	{
+		"name": "Place jungle trapdoor",
+		"category": ["Furnature"],
+		"requires": "|Regular saplings|"
+	},
+	{
+		"name": "Craft osmium amber",
+		"region": "Smelerty",
+		"category": ["Farming"],
+		"requires": "|Osmium sapling|"
+	},
+	{
+		"name": "Craft steel cleavor",
+		"region": "Smelerty",
+		"category": ["Tinkers"],
+		"requires": "|Progressive Tinkers Stations:3|"
+	},
+	{
+		"name": "Craft full netherite armor ",
+		"region": "Diamonds",
+		"category": ["Armor"],
+		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Iron sapling| AND |Lava| AND |Netherrite| AND |Village|"
+	},
+	{
+		"name": "Craft full diamond armor",
+		"region": "Diamonds",
+		"category": ["Armor"],
+		"requires": []
+	},
+	{
+		"name": "Craft full iron amor",
+		"region": "Smelerty",
+		"category": ["Armor"],
+		"requires": "|Iron sapling|"
+	},
+	{
+		"name": "Craft long fall boots",
+		"region": "Diamonds",
+		"category": ["Armor"],
+		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Iron sapling| AND |Lava| AND |Netherrite| AND |Village|"
+	},
+	{
+		"name": "Obtained elytra",
+		"category": ["Armor"],
+		"requires": "|End city|"
+	},
+	{
+		"name": "Craft emerald amber",
+		"category": ["Farming"],
+		"requires": "|Village|"
+	}
+]

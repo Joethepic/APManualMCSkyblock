@@ -9,3 +9,4 @@
 8. Load AP Manual skyblock
 9. Select the already created world
 10. Start the manual client and connect to your slot.
+11. run /gamerule doDaylightCycle true

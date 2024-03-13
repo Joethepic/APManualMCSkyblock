@@ -1,11 +1,11 @@
 {
 	"Smelerty": 	{
 		"connects_to": [],
-		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Lava|"
+		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Lava| AND |Petrified sapling|"
 	},
 	"Nether": 	{
 		"connects_to": [],
-		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Nether| AND |Iron sapling| AND |Lava|"
+		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Nether| AND |Iron sapling| AND |Lava| AND |Petrified sapling|"
 	},
 	"Diamonds": 	{
 		"requires": "|Silver sapling| AND |Gold sapling| AND |Lapis sapling| AND |Redstone sapling|",
@@ -17,6 +17,10 @@
 	},
 	"ME Storage": 	{
 		"connects_to": [],
-		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Certus Quarts| AND |Osmium sapling| AND |Greenheart sapling| AND |Copper sapling| AND |Iron sapling| AND |Water| AND |Lava|"
-}
+		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Petrified sapling| AND |Sand sapling| AND |Grout| AND |Certus Quarts| AND |Osmium sapling| AND |Greenheart sapling| AND |Copper sapling| AND |Iron sapling| AND |Water| AND |Lava|"
+},
+	"Cobble": {
+		"connects_to": [],
+		"requires": "( |Petrified sapling| OR (|Water| AND |Lava|))"
+	}
 }

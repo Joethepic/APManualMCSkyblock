@@ -1,6 +1,6 @@
 [
 	{
-		"count": "4",
+		"count": "3",
 		"name": "3 Iron ore ",
 		"category": ["items"],
 		"filler": true
@@ -8,6 +8,12 @@
 	{
 		"count":1,
 		"name": "Iron sapling",
+		"category": ["Saplings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Petrified sapling",
 		"category": ["Saplings"],
 		"progression": true
 	},
@@ -29,6 +35,13 @@
 		"category": ["items"],
 		"progression": true
 	},
+	{
+		"count":1,
+		"name": "Bee stuff",
+		"category": ["structures"],
+		"progression": true
+	},
+	
 	{
 		"count":1,
 		"name": "Certus Quarts",
@@ -74,24 +87,12 @@
 	{
 		"count":1,
 		"name": "Village",
-		"category": ["structure"],
+		"category": ["structures"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Grout",
-		"category": ["Recipes"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Mrcrayfish outdoor",
-		"category": ["Recipes"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Mrcrayfish doors",
 		"category": ["Recipes"],
 		"progression": true
 	},
@@ -110,7 +111,7 @@
 	{
 		"count":1,
 		"name": "Nether",
-		"category": ["Demensions"],
+		"category": ["Dimensions"],
 		"progression": true
 	},
 	{
@@ -206,19 +207,44 @@
 	{
 		"count":1,
 		"name": "End city",
-		"category": ["structure"],
+		"category": ["structures"],
 		"progression": true
 	},
 	{
-		"count": "9",
+		"count":4,
+		"name": "16 bread",
+		"category": ["filler items"]
+	},
+	{
+		"count":1,
+		"name": "Crops",
+		"category": ["items"],
+		"progression": true
+	},
+	{
+		"count": "1",
 		"name": "Throw 64 of any item into the void ",
 		"category": ["Traps"],
 		"trap": true
 	},
 	{
+		"count": "4",
+		"name": "64k ME storage cell",
+		"category": ["items"]
+	},
+	{
+		"count": "3",
+		"name": "16k ME storage cell",
+		"category": ["items"]
+	},
+	{
 		"count": "2",
-		"name": "Can't use slots hotbar slots 6-0 for 1 minute",
-		"category": ["Traps"],
-		"trap": true
+		"name": "4k ME storage cell",
+		"category": ["items"]
+	},
+	{
+		"count": "1",
+		"name": "1k ME storage cell",
+		"category": ["items"]
 	}
 ]

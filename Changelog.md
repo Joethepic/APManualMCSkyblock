@@ -1,3 +1,16 @@
+# 2.0
+## Pack side
+- added crafting tweaks mod
+- added The Twilight forest mod
+- added iron chests mod
+- added thermal fondation mod
+- added ars Nouveau mod
+- added ender storage mod
+- added botany pots mod
+- added mekanism tools mod
+- removed optifine mod
+- added ok zoomer forge mod
+## apworld side
 # 1.4
 ## Pack side
 - added haven growth mod

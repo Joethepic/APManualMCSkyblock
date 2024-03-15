@@ -14,9 +14,11 @@
 - added obsidian recipe
 - made villagers not run out of stock
 - added crepper kills for gunpowder
+- removed redstone spaling item
 ## apworld side
 - added new twilight forest checks
 - added new gadget checks
+- changed logic for redstone sapling to need to be crafted
 - added new other checks
 # 1.4
 ## Pack side

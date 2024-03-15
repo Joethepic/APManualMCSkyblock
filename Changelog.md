@@ -9,8 +9,15 @@
 - added botany pots mod
 - added mekanism tools mod
 - removed optifine mod
-- added ok zoomer forge mod
+- created recipe for 2 logs into 32 sticks
+- added recipe to craft emerald from emerald sapling rewards
+- added obsidian recipe
+- made villagers not run out of stock
+- added crepper kills for gunpowder
 ## apworld side
+- added new twilight forest checks
+- added new gadget checks
+- added new other checks
 # 1.4
 ## Pack side
 - added haven growth mod

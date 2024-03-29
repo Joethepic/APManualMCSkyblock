@@ -15,6 +15,8 @@
 - made villagers not run out of stock
 - added crepper kills for gunpowder
 - removed redstone spaling item
+- added dark utilites mod
+- added immersive engineering mod
 ## apworld side
 - added new twilight forest checks
 - added new gadget checks

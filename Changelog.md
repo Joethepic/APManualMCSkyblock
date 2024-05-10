@@ -22,6 +22,7 @@
 - added new gadget checks
 - changed logic for redstone sapling to need to be crafted
 - added new other checks
+- New goal is 50/75 Victory pieces
 # 1.4
 ## Pack side
 - added haven growth mod

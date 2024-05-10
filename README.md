@@ -10,3 +10,5 @@
 9. Select the already created world
 10. Start the manual client and connect to your slot.
 11. run /gamerule doDaylightCycle true
+# During the game
+- Dimensions work a bit special from how they usually work you will be instantly teleoprted to where you are supposed to be when entering the dimension for the first time when going back to that dimension after going to a different dimension make sure to collect the oak plank reward for the correct dimension you are returning to.

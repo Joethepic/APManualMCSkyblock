@@ -17,12 +17,16 @@
 - removed redstone spaling item
 - added dark utilites mod
 - added immersive engineering mod
+- Fixes some broken vanilla recipes
+- removes some vanilla recipes that shouldn't be in
+- Other bug fixes
 ## apworld side
 - added new twilight forest checks
 - added new gadget checks
 - changed logic for redstone sapling to need to be crafted
 - added new other checks
 - New goal is 50/75 Victory pieces
+- Other bug fixes
 # 1.4
 ## Pack side
 - added haven growth mod

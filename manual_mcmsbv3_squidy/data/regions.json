@@ -1,0 +1,48 @@
+{
+  "Smelerty": {
+		"connects_to": [],
+		"requires": "|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Lava| AND (|Petrified sapling| OR ({YamlDisabled(use_saplings)} AND |Cobble|) OR |Water|)"
+  },
+  "Nether": {
+    
+		"connects_to": [],
+    
+		"requires": "|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Nether| AND |Iron sapling| AND |Lava| AND (|Petrified sapling| OR {YamlDisabled(use_saplings)}) AND |Water|"
+  },
+  "Diamonds": {
+    
+		"requires": "(|Silver sapling| AND |Gold sapling| AND |Lapis sapling| AND |Grass Block| AND |Iron sapling| AND |Petrified sapling|) or ({YamlDisabled(use_saplings)} AND |Diamonds|)",
+    
+		"connects_to": []
+  },
+  "Beds": {
+    
+		"connects_to": [],
+    
+		"requires": "( |Grass Block| OR |Village| )"
+  },
+  "ME Storage": {
+    
+		"connects_to": [],
+    
+		"requires": "|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Certus Quarts| AND (|Osmium sapling| OR ({YamlDisabled(use_saplings)} and |Osmium|)) AND (|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND (|Copper sapling| OR ({YamlDisabled(use_saplings)} and |Copper|)) AND (|Iron sapling| OR ({YamlDisabled(use_saplings)} and |Iron|)) AND |Water| AND |Lava| AND |Grass Block| AND (|Netherrack sapling| or ({YamlDisabled(use_saplings)} and |Quarts|)) AND |Generator| and (|Petal Apothecary| AND |Mushrooms| AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) AND |Village| and ((|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or |Water|) or (|Glowstone sapling| or ({YamlDisabled(use_saplings)} and |Glowstone|"
+  },
+  "Cobble": {
+    
+		"connects_to": [],
+    
+		"requires": "(|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
+  },
+  "TF": {
+    
+		"connects_to": [],
+    
+		"requires": "(|Silver sapling| AND |Gold sapling| AND |Lapis sapling| AND |Grass Block| AND |Iron sapling| AND |Petrified sapling|) or ({YamlDisabled(use_saplings)} AND |Diamonds|) AND |Grass Block| AND (|Iron sapling| OR ({YamlDisabled(use_saplings)} AND |Iron|)) AND ((|Petrified sapling| OR {YamlDisabled(use_saplings)} AND |Cobble|) OR |Lava|) AND |Water|"
+  },
+  "Iron": {
+    
+		"connects_to": [],
+    
+		"requires": "|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Lava| AND (|Petrified sapling| OR ({YamlDisabled(use_saplings)} AND |Cobble|) OR |Water|) AND (|Iron sapling| OR ({YamlDisabled(use_saplings)} AND |Iron|))"
+  }
+}

@@ -1,0 +1,2591 @@
+[
+  {
+    
+		"victory": true,
+    
+		"name": "collect 50 victory pieces",
+    
+		"category": [],
+    
+		"requires": "|Victory piece:50|"
+  },
+  {
+    
+		"name": "Cobblestone",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"requires": [],
+    
+		"region": "Cobble"
+  },
+  {
+    
+		"name": "Furnace",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"requires": [],
+    
+		"region": "Cobble"
+  },
+  {
+    
+		"name": "Petrified amber",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"requires": "|Petrified sapling|"
+  },
+  {
+    
+		"name": "Place a cottage oak door",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|)) AND |Sugar Cane| AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Water|"
+  },
+  {
+    
+		"name": "Place any trampoline",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place any picket gate",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "|Water| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|))"
+  },
+  {
+    
+		"name": "Craft a donut amber",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"requires": "|donut sapling|"
+  },
+  {
+    
+		"name": "Craft a Casting table",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Grout| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_zss)} AND |Sand|)) AND (|Petrified sapling| OR ({YamlDisabled(use_saplings)} AND |Cobble|) OR (|Water| AND |Lava|))"
+  },
+  {
+    
+		"name": "Craft any elevator",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"region": "Beds",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Obtain a Smeltery Controller",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Smeltery|"
+  },
+  {
+    
+		"name": "Obtain a Seared Fuel Tank",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Smeltery:2|"
+  },
+  {
+    
+		"name": "Obtain a Seared Drain",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Smeltery:3|"
+  },
+  {
+    
+		"name": "Build a working smeltery",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"region": "Smelerty",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Build a working smeltery (FO)",
+    
+		"category": [
+      "final objectives"
+    ],
+    
+		"region": "Smelerty",
+    
+		"requires": [],
+    
+		"place_item": [
+      "Final Objective"
+    ]
+  },
+  {
+    
+		"name": "Craft a Enrichment Chamber",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"region": "Smelerty",
+    
+		"requires": "|Metallurgic Infuser| AND (|Osmium sapling| OR ({YamlDisabled(use_saplings)} and |Osmium|))"
+  },
+  {
+    
+		"name": "Place a Oak Desk Cabinet",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft a Powered Rail",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "(|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) AND |Grass Block|",
+    
+		"region": "Iron"
+  },
+  {
+    
+		"name": "Visit the nether",
+    
+		"region": "Nether",
+    
+		"category": [
+      "dimensions"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft nether grout",
+    
+		"region": "Nether",
+    
+		"category": [
+      "dimensions"
+    ],
+    
+		"requires": "(|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|))"
+  },
+  {
+    
+		"name": "Observe dirt path",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft Slime Sling",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "(|Greenheart sapling| AND |Bee stuff|) or ({YamlDisabled(use_saplings)} and |Slimeballs|)"
+  },
+  {
+    
+		"name": "Craft Sticky piston",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"requires": "(|Greenheart sapling| AND |Bee stuff|) or ({YamlDisabled(use_saplings)} and |Slimeballs|)",
+    
+		"region": "Iron"
+  },
+  {
+    
+		"name": "Craft Lime stained glass",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "|Cactus| AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Water|"
+  },
+  {
+    
+		"name": "Craft Lightning rod",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "(|Copper sapling| OR ({YamlDisabled(use_saplings)} and |Copper|))",
+    
+		"region": "Smelerty"
+  },
+  {
+    
+		"name": "Craft Jukebox",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"region": "Diamonds",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft diamond amber",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"region": "Diamonds",
+    
+		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Lava| AND |Petrified sapling|"
+  },
+  {
+    
+		"name": "Craft diamond amber (FO)",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"region": "Diamonds",
+    
+		"requires": "|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Lava| AND |Petrified sapling|",
+    "place_item": ["Final Objective"]
+  },
+  {
+    
+		"name": "Place White bed",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place orange bed",
+    
+		"region": "Beds",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place Magenta bed",
+    
+		"region": "Beds",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place Light Blue bed",
+    
+		"region": "Beds",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place Yellow bed",
+    
+		"region": "Beds",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place Lime bed",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "( |Village| OR |Cactus| AND |Grass Block| )"
+  },
+  {
+    
+		"name": "Place Pink bed",
+    
+		"region": "Beds",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place gray bed",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "( |Village| OR ( |Water| AND |Grass Block| ) )"
+  },
+  {
+    
+		"region": "Beds",
+    
+		"name": "Place Light gray bed",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place Cyan bed",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "( |Village| OR ( |Cactus| AND ( |Grass Block| OR (|Lapis sapling| OR {YamlDisabled(use_saplings)} and |Lapis|)) ) )"
+  },
+  {
+    
+		"name": "Place purple bed",
+    
+		"region": "Beds",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place blue bed",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "|Village| OR |Grass Block| OR (|Lapis sapling| OR ({YamlDisabled(use_saplings)} and |Lapis|))"
+  },
+  {
+    
+		"name": "Place brown bed",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "( |Village| OR ((|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|)) AND |Bee stuff| AND |Grass Block| AND ((|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND (|Cobble| or (|Water| and |Lava|))))))"
+  },
+  {
+    
+		"name": "Place green bed",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Village| OR (|Cactus| AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|))))"
+  },
+  {
+    
+		"name": "Place red bed",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "( |Village| OR |Grass Block| OR |Crops| )"
+  },
+  {
+    
+		"name": "Place black bed",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "( |Village| OR ( |Water| AND |Grass Block| ) )"
+  },
+  {
+    
+		"name": "Place all beds",
+    
+		"category": [
+      "Furnature",
+      "final objectives"
+    ],
+    
+		"requires": "( |Village| OR ( |Water| AND |Cactus| AND |Grass Block| AND (|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|))))"
+  },
+  {
+    
+		"name": "Place all beds (FO)",
+    
+		"category": [
+      "Furnature",
+      "final objectives"
+    ],
+    
+		"requires": "( |Village| OR ( |Water| AND |Cactus| AND |Grass Block| AND (|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|))))",
+    
+		"place_item": [
+      "Final Objective"
+    ]
+  },
+  {
+    
+		"name": "Craft a inscriber",
+    
+		"region": "Smelerty",
+    
+		"category": [
+      "Applied energetics 2"
+    ],
+    
+		"requires": "(|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND (|Copper sapling| OR ({YamlDisabled(use_saplings)} and |Copper|)) AND |Bee stuff|"
+  },
+  {
+    
+		"name": "Craft a energy acceptor",
+    
+		"region": "ME Storage",
+    
+		"category": [
+      "Applied energetics 2"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft a ME Drive",
+    
+		"region": "ME Storage",
+    
+		"category": [
+      "Applied energetics 2"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft a ME Chest",
+    
+		"region": "ME Storage",
+    
+		"category": [
+      "Applied energetics 2"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft a ME Terminal",
+    
+		"region": "ME Storage",
+    
+		"category": [
+      "Applied energetics 2"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Complete a working ME storage system (1)",
+    
+		"region": "ME Storage",
+    
+		"category": [
+      "Applied energetics 2"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Complete a working ME storage system (2)",
+    
+		"region": "ME Storage",
+    
+		"category": [
+      "Applied energetics 2"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Complete a working ME storage system (FO)",
+    
+		"region": "ME Storage",
+    
+		"category": [
+      "final objectives"
+    ],
+    
+		"requires": [],
+    
+		"place_item": [
+      "Final Objective"
+    ]
+  },
+  {
+    
+		"name": "Craft copper bow limb",
+    
+		"region": "Smelerty",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Stations| AND (|Copper sapling| OR ({YamlDisabled(use_saplings)} and |Copper|))"
+  },
+  {
+    
+		"name": "Craft a block of emerald",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "|Village| "
+  },
+  {
+    
+		"name": "Place a clear item frame",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "((|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND ((|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND (|Cobble| or (|Water| and |Lava|)))) OR |Village| )"
+  },
+  {
+    
+		"name": "Catch a fish",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"requires": "|Water|"
+  },
+  {
+    
+		"name": "Eat a cake",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"region": "Smelerty",
+    
+		"requires": "( |Grass Block| AND |Sugar Cane| AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) OR |Village| )"
+  },
+  {
+    
+		"name": "Craft a spatula",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "( |Water| OR |Village| )"
+  },
+  {
+    
+		"name": "Craft a Fluix Wall",
+    
+		"category": [
+      "Applied energetics 2"
+    ],
+    
+		"region": "ME Storage",
+    
+		"requires": "|Water|"
+  },
+  {
+    
+		"name": "Craft a Golden Apple",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"region": "ME Storage",
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|)) AND (({YamlDisabled(use_saplings)} and |Gold|) or |Gold sapling|)"
+  },
+  {
+    
+		"name": "Place Stripped Spruce blinds",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|))"
+  },
+  {
+    
+		"name": "Obtain a crossbow",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "( |Village| OR (|Progressive Tinkers Smeltery:3| AND |Gravel sapling| AND |Sand sapling| AND |Grout| AND |Lava| AND (|Water| OR |Petrified sapling| or ({YamlDisabled(use_saplings)} and |Cobble|)) AND (|Iron sapling| OR ({YamlDisabled(use_saplings)} AND |Iron|)))"
+  },
+  {
+    
+		"name": "Craft a yellow sofa",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"region": "Beds",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft lead amber",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"requires": "|Lead Sapling|"
+  },
+  {
+    
+		"name": "Craft a clock",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "((|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) AND (|Grass Block| AND |Iron sapling| AND |Petrified sapling|) OR ({YamlDisabled(use_sapling)} and |Redstone|) or |Village|)"
+  },
+  {
+    
+		"name": "Place black carpet",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "( |Village| OR ( |Water| AND |Grass Block| ) )"
+  },
+  {
+    
+		"name": "Craft cookie amber",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"requires": "|Sugar Cane| AND |Village| AND |Sand sapling| AND |Regular saplings|"
+  },
+  {
+    
+		"name": "Obtain 32 rotten flesh",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft a quartz skurikin",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "(|Netherrack sapling| or ({YamlDisabled(use_saplings)} and |Quarts|))"
+  },
+  {
+    
+		"name": "Craft detector rail",
+    
+		"region": "Iron",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "|Grass Block| or ({YamlDisabled(use_sapling)} and |Redstone|) or |Village|"
+  },
+  {
+    
+		"name": "Craft rail",
+    
+		"region": "Smelerty",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "((|Iron sapling| or ({YamlDisabled(use_sapling)} and |Iron| ) OR (|Osmium sapling| OR ({YamlDisabled(use_saplings)} and |Osmium|)))"
+  },
+  {
+    
+		"name": "Craft activator rail",
+    
+		"region": "Iron",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "(|Grass Block| AND |Petrified sapling|) or ({YamlDisabled(use_saplings)} and |Redstone|)"
+  },
+  {
+    
+		"name": "Place dark oak rail bridge",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|))"
+  },
+  {
+    
+		"name": "Obtain 8 cooked mutton",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "|Grass Block|",
+    
+		"region": "Cobble"
+  },
+  {
+    
+		"name": "Craft a common backpack",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft an uncommon backpack",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "(({YamlDisabled(use_saplings)} and |Gold|) or |Gold sapling|) AND |Grass Block|"
+  },
+  {
+    
+		"name": "Craft a rare backpack",
+    
+		"category": [
+      "Other"
+    ],
+		"requires": "(({YamlDisabled(use_saplings)} and |Gold|) or |Gold sapling|) AND |Grass Block| and ((|Silver sapling| AND |Gold sapling| AND |Lapis sapling| AND |Grass Block| AND |Iron sapling| AND |Petrified sapling|) or ({YamlDisabled(use_saplings)} AND |Diamonds|))",
+		"region": "Cobble"
+  },
+  {
+    
+		"name": "Craft an epic backpack",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "(({YamlDisabled(use_saplings)} and |Gold|) or |Gold sapling|) AND |Grass Block| AND |Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Lava| AND (|Petrified sapling| OR ({YamlDisabled(use_saplings)} AND |Cobble|) OR |Water|) AND |Grout| AND |Lava| AND (|Water| OR |Petrified sapling| or ({YamlDisabled(use_saplings)} and |Cobble|)) AND (|Iron sapling| OR ({YamlDisabled(use_saplings)} AND |Iron|)) and |Sugar Cane| or |Progressive Tinkers Stations:3|",
+    
+		"region": "Diamonds"
+  },
+  {
+    
+		"name": "Craft a legendary backpack",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "(({YamlDisabled(use_saplings)} and |Gold|) or |Gold sapling|) AND |Grass Block| AND |Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Lava| AND (|Petrified sapling| OR ({YamlDisabled(use_saplings)} AND |Cobble|) OR |Water|) and (|Iron sapling| OR ({YamlDisabled(use_saplings)} AND |Iron|)) AND |Netherrite| and |Sugar Cane| or |Progressive Tinkers Stations:3|",
+    
+		"region": "Diamonds"
+  },
+  {
+    
+		"name": "Craft a legendary backpack (FO)",
+    
+		"category": [
+      "final objectives"
+    ],
+    
+		"requires": "(({YamlDisabled(use_saplings)} and |Gold|) or |Gold sapling|) AND |Grass Block| AND (|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Lava| AND (|Petrified sapling| OR ({YamlDisabled(use_saplings)} AND |Cobble|) OR |Water|) AND (|Iron sapling| OR ({YamlDisabled(use_saplings)} AND |Iron|)) AND |Netherrite| and |Sugar Cane| or |Progressive Tinkers Stations:3|",
+    
+		"region": "Diamonds",
+    
+		"place_item": [
+      "Final Objective"
+    ]
+  },
+  {
+    
+		"name": "Craft a nether quarts wrench",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "(|Netherrack sapling| or ({YamlDisabled(use_saplings)} and |Quarts|))"
+  },
+  {
+    
+		"name": "Obtain a part builder",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Stations|"
+  },
+  {
+    
+		"name": "Craft a tinkers station",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Stations:2|"
+  },
+  {
+    
+		"name": "Obtain a tinkers anvil",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Stations:3|"
+  },
+  {
+    
+		"name": "Craft any tinkers part",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Stations|"
+  },
+  {
+    
+		"name": "Make Any tinkers crossbow",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Stations:2|"
+  },
+  {
+    
+		"name": "Craft a EFLN",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "(|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|))"
+  },
+  {
+    
+		"name": "Obtain a nether star",
+    
+		"region": "Diamonds",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Nether| AND |Iron sapling| AND |Lava| AND (|Petrified sapling| OR {YamlDisabled(use_saplings)}) AND |Water|"
+  },
+  {
+    
+		"name": "Obtain a bookshelf",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "( |Village| OR ( |Grass Block| AND |Sugar Cane| AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Water|) OR ( |Water| AND (|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND |Sugar Cane| AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)))"
+  },
+  {
+    
+		"name": "Place a oak desk",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft flint broad blade",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Stations:2| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|))"
+  },
+  {
+    
+		"name": "Craft a carrot on a stick",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "|Crops|"
+  },
+  {
+    
+		"name": "Obtained orange terracotta",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "|Village| OR ((|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)) AND |Grass Block|"
+  },
+  {
+    
+		"name": "Place clear brown stained glass",
+    
+		"region": "Smelerty",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|)) AND |Bee stuff| AND (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|) AND ( |Village| OR |Sand sapling| )"
+  },
+  {
+    
+		"name": "Place sliding glass door",
+    
+		"region": "Iron",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft silver amber",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"requires": "|Silver sapling|"
+  },
+  {
+    
+		"name": "Craft a wireless acess point",
+    
+		"region": "ME Storage",
+    
+		"category": [
+      "Applied energetics 2"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place bricks",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "|Village| OR ((|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|))"
+  },
+  {
+    
+		"name": "Place jungle trapdoor",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|))"
+  },
+  {
+    
+		"name": "Craft osmium amber",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"requires": "|Osmium sapling|"
+  },
+  {
+    
+		"name": "Craft steel cleavor",
+    
+		"region": "Smelerty",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Stations:3|"
+  },
+  {
+    
+		"name": "Craft full netherite armor ",
+    
+		"region": "Diamonds",
+    
+		"category": [
+      "Armor"
+    ],
+    
+		"requires": "|Netherrite| AND |Village|"
+  },
+  {
+    
+		"name": "Craft full diamond armor",
+    
+		"region": "Diamonds",
+    
+		"category": [
+      "Armor"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft iron amber",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"requires": "|Iron sapling|"
+  },
+  {
+    
+		"name": "Craft full iron amor",
+    
+		"requires": "(|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Lava| AND (|Petrified sapling| OR ({YamlDisabled(use_saplings)} AND |Cobble|) OR |Water|) AND (|Iron sapling| OR ({YamlDisabled(use_saplings)} AND |Iron|))) or |Village|",
+    
+		"category": [
+      "Armor"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft long fall boots",
+    
+		"region": "Diamonds",
+    
+		"category": [
+      "Armor"
+    ],
+    
+		"requires": "|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND |Sand sapling| AND |Grout| AND (|Iron sapling| OR ({YamlDisabled(use_saplings)} AND |Iron|)) AND |Lava| AND |Netherrite| AND |Village|"
+  },
+  {
+    
+		"name": "Obtained elytra",
+    
+		"category": [
+      "Armor"
+    ],
+    
+		"requires": "|End city|"
+  },
+  {
+    
+		"name": "Craft emerald amber",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"requires": "|Village|"
+  },
+  {
+    
+		"name": "Build a twilight forest portal",
+    
+		"category": [
+      "dimensions"
+    ],
+    
+		"region": "TF",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft a botany pot",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"requires": "|Petrified sapling| OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|) OR |Village|"
+  },
+  {
+    
+		"name": "Craft a ender chest",
+    
+		"region": "Nether",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "|Grass Block| OR |Village|"
+  },
+  {
+    
+		"name": "Craft a ender pouch",
+    
+		"region": "Nether",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "|Grass Block| OR |Village| AND (((|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|)) OR (|Water| AND |Lava|))"
+  },
+  {
+    
+		"name": "Place a iron portcullis",
+    
+		"region": "Iron",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Brew a lingering potion of leaping",
+    
+		"region": "Nether",
+		"category": [
+      "Other"
+    ],
+		"requires": "|Dragons Breath| AND |Grass Block| AND (((|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND (|Cobble|)) or (|Water| and |Lava|)) AND |Crops|"
+  },
+  {
+    
+		"name": "Brew a Regeration II Potion",
+    
+		"region": "Nether",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "(|Glowstone sapling| or ({YamlDisabled(use_saplings)} and |Glowstone|))"
+  },
+  {
+    
+		"name": "Craft a note block",
+    
+		"region": "Smelerty",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"requires": "(|Iron sapling| AND |Grass Block| AND |Petrified sapling|) OR ({YamlDisabled(use_sapling)} and |Redstone|)"
+  },
+  {
+    
+		"name": "Place warped bridge support",
+		"region": "Iron",
+		"category": [
+      "Furnature"
+    ],    
+		"requires": "|Metallurgic Infuser| AND (|Osmium sapling| OR ({YamlDisabled(use_saplings)} and |Osmium|)) AND |Mushrooms| AND |Grass Block| AND |Sand sapling| AND (|Netherrack sapling| or ({YamlDisabled(use_saplings)} and |Quarts|))"
+  },
+  {
+    
+		"name": "Craft a cyan hopper botany pot ",
+    
+		"region": "Iron",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"requires": "|Cactus| AND ( |Grass Block| OR (|Lapis sapling| or ({YamlDisabled(use_saplings)} and |Lapis|))"
+  },
+  {
+    
+		"name": "Craft dirt chest 9000!",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft copper chest",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "(|Copper sapling| OR ({YamlDisabled(use_saplings)} and |Copper|))"
+  },
+  {
+    
+		"name": "Craft iron chest",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "(|Copper sapling| OR ({YamlDisabled(use_saplings)} and |Copper|))",
+    
+		"region": "Iron"
+  },
+  {
+    
+		"name": "Craft a Gold Chest",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "(({YamlDisabled(use_saplings)} and |Gold|) or |Gold sapling|) AND (|Copper sapling| OR ({YamlDisabled(use_saplings)} and |Copper|))",
+    
+		"region": "Iron"
+  },
+  {
+    
+		"name": "Craft a Gold Chest (FO)",
+    
+		"category": [
+      "final objectives"
+    ],
+    
+		"requires": "(({YamlDisabled(use_saplings)} and |Gold|) or |Gold sapling|) AND (|Copper sapling| OR ({YamlDisabled(use_saplings)} and |Copper|))",
+		"region": "Iron",
+    
+		"place_item": [
+      "Final Objective"
+    ]
+  },
+  {
+    
+		"name": "Place Light Blue Rockwool",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND ( |Grass Block| OR |Village| )",
+    
+		"region": "Cobble"
+  },
+  {
+    
+		"name": "Place Brown Rockwool",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Regular saplings| AND |Bee stuff|) or (|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|)) AND |Grass Block|",
+    
+		"region": "Cobble"
+  },
+  {
+    
+		"name": "Place Magenta Rockwool",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND ( |Village| OR ( |Regular saplings| AND |Bee stuff| AND |Grass Block| AND |Petrified sapling| ) )",
+    
+		"region": "Cobble"
+  },
+  {
+    
+		"name": "Craft silver gear",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "(|Silver sapling| or ({YamlDisabled(use_saplings)} and |Silver|))"
+  },
+  {
+    
+		"name": "Craft a enchanting table",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"region": "Diamonds",
+    
+		"requires": "|Water| AND |Sugar Cane| AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Lava|"
+  },
+  {
+    
+		"name": "Build a fully powered enchanting table",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"region": "Diamonds",
+    
+		"requires": "|Water| AND |Sugar Cane| AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Lava|"
+  },
+  {
+    
+		"name": "Craft a crate of carrots",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"requires": "|Crops|"
+  },
+  {
+    
+		"name": "Craft a Basic Bin",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "|Grass Block| AND (|Osmium sapling| OR ({YamlDisabled(use_saplings)} and |Osmium|)) AND |Metallurgic Infuser|"
+  },
+  {
+    
+		"name": "Craft a cyan Glazed Botany pot",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"requires": "|Village| OR (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|) AND |Cactus| AND (|Lapis sapling| OR ({YamlDisabled(use_saplings)}) and |Lapis|) OR |Grass Block|"
+  },
+  {
+    
+		"name": "Eat a cooked porchop",
+    
+		"region": "Cobble",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"requires": "|Grass Block| AND |Crops|"
+  },
+  {
+    
+		"name": "Place a Tinker's Workbench",
+    
+		"region": "Iron",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"requires": "(|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) AND |Grass Block|"
+  },
+  {
+    
+		"name": "Craft a gold repair kit",
+    
+		"region": "Smelerty",
+    
+		"category": [
+      "Tinkers"
+    ],
+    
+		"requires": "|Progressive Tinkers Stations| AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|))"
+  },
+  {
+    
+		"name": "Craft a 1k Crafting Storage",
+    
+		"region": "ME Storage",
+    
+		"category": [
+      "Applied energetics 2"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Obtain a poisonous potato",
+    
+		"region": "Cobble",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"requires": "|Crops|"
+  },
+  {
+    
+		"name": "Craft a observer",
+    
+		"region": "Cobble",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"requires": "|Grass Block| AND (|Netherrack sapling| or ({YamlDisabled(use_saplings)} and |Quarts|))"
+  },
+  {
+    
+		"name": "Obtain 10K FE",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"requires": "|Generator| AND |Lava|"
+  },
+  {
+    
+		"name": "Obtain a crusher",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "|Lava| AND |Generator| AND (|Osmium sapling| OR ({YamlDisabled(use_saplings)} and |Osmium|)) AND |Grass Block| AND |Metallurgic Infuser|"
+  },
+  {
+    
+		"name": "Obtain a Enriched Tin",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "|Lava| AND |Generator| AND (|Osmium sapling| OR ({YamlDisabled(use_saplings)} and |Osmium|)) AND |Grass Block| AND |Metallurgic Infuser| AND (|Tin sapling| or ({YamlDisabled(use_saplings)} and |Tin|))"
+  },
+  {
+    
+		"name": "Brew a instant damage potion",
+    
+		"region": "Nether",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"requires": "|Mushrooms| AND |Sugar Cane| and (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Water|"
+  },
+  {
+    
+		"name": "Craft 32 fireworks",
+    
+		"requires": "|Sugar Cane| and (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Water|",
+    
+		"category": [
+      "Other"
+    ]
+  },
+  {
+    
+		"name": "Place a stripped oak chair",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Obtain leather",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft a Iron pickaxe",
+    
+		"region": "Iron",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kill 1 Spider",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kill 1 Witch",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kill 1 Zombie",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kill 1 Skelton",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kill 1 Creeper",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kill 1 Enderman",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kill 1 Ghast",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"region": "Nether",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kill 1 Blaze",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"region": "Nether",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kill 1 Wither skeleton",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"region": "Nether",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Kill the wither",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"region": "Nether",
+    
+		"requires": "((|Silver sapling| AND |Gold sapling| AND |Lapis sapling| AND |Grass Block|) or (|Diamonds| and {YamlDisabled(use_saplings)})"
+  },
+  {
+    
+		"name": "Charge a respawn anchor to the maximum",
+    
+		"category": [
+      "Vanilla Advancements"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "( |Village| OR (|Glowstone sapling| or {YamlDisabled(use_saplings)} and |Glowstone|) AND |Water|"
+  },
+  {
+    
+		"name": "Craft a Precision sawmill",
+    
+		"category": [
+      "Machines"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "|Grass Block| AND |Petrified sapling| AND (|Osmium sapling| OR ({YamlDisabled(use_saplings)} and |Osmium|)) AND |Grass Block| AND  |Petrified sapling| AND |Metallurgic Infuser|"
+  },
+  {
+    
+		"name": "Enter the twilight forest",
+    
+		"category": [
+      "dimensions"
+    ],
+    
+		"region": "TF",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place 10 scaffholding",
+    
+		"category": [
+      "Gadgets",
+      "Saplings"
+    ],
+    
+		"requires": "|Bamboo|"
+  },
+  {
+    
+		"name": "Place a crate of apples",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"requires": "( |Village| OR (|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|))"
+  },
+  {
+    
+		"name": "Place a mob filter (player)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "(|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|))"
+  },
+  {
+    
+		"name": "Place a mob filter (Undead)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place a mob filter (Fire Immune)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Nether",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place a mob filter (Villager)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "|Village|"
+  },
+  {
+    
+		"name": "Place a mob filter (Animal)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "|Grass Block|"
+  },
+  {
+    
+		"name": "Place a mob filter (Arthropod)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place a mob filter (Illager)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place a mob filter (Hostile)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place a mob filter (Raid)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "|Village|"
+  },
+  {
+    
+		"name": "Place a mob filter (Child)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "|Grass Block|"
+  },
+  {
+    
+		"name": "Place a mob filter (Pet)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "|Grass Block|"
+  },
+  {
+    
+		"name": "Place a mob filter (Slime)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "(|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND |Vines| AND |Bee stuff|"
+  },
+  {
+    
+		"name": "Place a mob filter (Water)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "|Water|"
+  },
+  {
+    
+		"name": "Place a mob filter (Named)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "|Village|"
+  },
+  {
+    
+		"name": "Place a mob filter (Freeze Immune)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "|Powerded Snow Bucket|"
+  },
+  {
+    
+		"name": "Place a mob filter (Equipment)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "(|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|))"
+  },
+  {
+    
+		"name": "Place a mob filter (Passenger)",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place all mob filters",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "|Powerded Snow Bucket| AND |Water| AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) AND |Village| AND |Crops| AND |Grass Block|"
+  },
+  {
+    
+		"name": "Place all mob filters (FO)",
+    
+		"category": [
+      "final objectives"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "|Powerded Snow Bucket| AND |Water| AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) AND |Village| AND |Crops| AND |Grass Block|",
+    
+		"place_item": [
+      "Final Objective"
+    ]
+  },
+  {
+    
+		"name": "Obtain slag",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "(|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|))"
+  },
+  {
+    
+		"name": "Place a blank plate",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "|Village| AND |Basalt|"
+  },
+  {
+    
+		"name": "Place a Vector plate",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "|Village| AND |Sand sapling| AND |Basalt| AND (|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND ((|Sugar Cane| AND (|Water| OR |Village|)) OR (|Bee stuff| AND |Petrified sapling|))"
+  },
+  {
+    
+		"name": "Place a Fast Vector plate",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "|Village| AND |Basalt| AND (|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND ((|Sugar Cane| AND |Sand sapling|) OR |Bee stuff|) AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|))"
+  },
+  {
+    
+		"name": "Place a Extreme Vector plate",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "|Village| AND |Basalt| AND (|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND ((|Sugar Cane| AND |Sand sapling|) OR |Bee stuff|) AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) AND ((|Grass Block| AND |Iron sapling| AND |Petrified sapling|) or ({YamlDisabled(use_saplings)} and |Redstone|))"
+  },
+  {
+    
+		"name": "Place a Ultra Vector plate",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"region": "Diamonds",
+    
+		"requires": "|Village| AND |Basalt| AND (|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND ((|Sugar Cane| AND |Sand sapling|) OR |Bee stuff|) AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) AND ((|Grass Block| AND |Iron sapling| AND |Petrified sapling|) or ({YamlDisabled(use_saplings)} and |Redstone|))"
+  },
+  {
+    
+		"name": "Place all Vector plates",
+    
+		"category": [
+      "Gadgets"
+    ],
+    
+		"requires": "|Village| AND |Basalt| AND ((|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND ((|Sugar Cane| AND |Sand sapling|) OR |Bee stuff|) AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) AND ((|Grass Block| AND |Iron sapling| AND |Petrified sapling|) or ({YamlDisabled(use_saplings)} and |Redstone|))"
+  },
+  {
+    
+		"name": "Eat a jewled apple",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"region": "Smelerty",
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|)) AND (|Silver sapling| AND |Gold sapling| AND |Lapis sapling|) or ({YamlDisabled(use_saplings)} AND |Diamonds|) AND |Grass Block| and |Progressive Tinkers Stations:2|"
+  },
+  {
+    
+		"name": "Place stripped birch Drawer",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|)) AND |Iron sapling|"
+  },
+  {
+    
+		"name": "Place a stripped spruce mailbox",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|))"
+  },
+  {
+    
+		"name": "Place a post box",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "|End city| AND (|Lapis sapling| OR ({YamlDisabled(use_saplings)} and |Lapis|)) OR |Grass Block|"
+  },
+  {
+    
+		"name": "Eat smoked ham",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"region": "Cobble",
+    
+		"requires": "(|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND |Grass Block| AND |Crops|"
+  },
+  {
+    
+		"name": "Obtain a honey bucket",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "|Bee stuff|"
+  },
+  {
+    
+		"name": "Eat a Earthslime cake",
+    
+		"category": [
+      "Farming"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": "(|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND |Sugar Cane| AND |Grass Block| AND |Bee stuff|"
+  },
+  {
+    
+		"name": "Craft a bone amber",
+    
+		"category": [
+      "Farming",
+      "Saplings"
+    ],
+    
+		"requires": "|Petrified sapling|"
+  },
+  {
+    
+		"name": "Craft oak door",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Craft Spruce door",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|))"
+  },
+  {
+    
+		"name": "Craft Birch door",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|))"
+  },
+  {
+    
+		"name": "Craft Jungle door",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|))"
+  },
+  {
+    
+		"name": "Craft Dark Oak door",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|))"
+  },
+  {
+    
+		"name": "Craft Crimson door",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "|Mushrooms| AND (|Netherrack sapling| or ({YamlDisabled(use_saplings)} and |Netherrack|))"
+  },
+  {
+    
+		"name": "Craft a warped door",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "|Mushrooms| AND (|Netherrack sapling| or ({YamlDisabled(use_saplings)} and |Netherrack|))"
+  },
+  {
+    
+		"name": "Craft all vanilla doors",
+    
+		"category": [
+      "Furnature"
+    ],
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|)) AND |Mushrooms| AND (|Netherrack sapling| or ({YamlDisabled(use_saplings)} and |Netherrack|))"
+  },
+  {
+    
+		"name": "Craft all vanilla doors (FO)",
+		"category": ["final objectives"],
+		"requires": "(|Regular saplings| or ({YamlDisabled(use_saplings)} and |Regular wood|)) AND |Mushrooms| AND (|Netherrack sapling| or ({YamlDisabled(use_saplings)} and |Netherrack|))",
+		"place_item": ["Final Objective"]
+  },
+  {
+    
+		"name": "Craft Pliers",
+    
+		"region": "Iron",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place moss",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "|Water|"
+  },
+  {
+    
+		"name": "Use a shield",
+    
+		"category": [
+      "Other"
+    ],
+    
+		"region": "Iron",
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place Traffic lights 2",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": "|Grass Block| AND |Village|",
+    "region": "Iron"
+  },
+  {
+    
+		"name": "Craft a novice spell book",
+    
+		"region": "Iron",
+    
+		"category": [
+      "Ars Nouveau"
+    ],
+    
+		"requires": "|Sugar Cane| AND |Water|"
+  },
+  {
+    
+		"name": "Place 100 slabs",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Place 250 slabs",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+		"name": "Place 500 slabs",
+    
+		"category": [
+      "Furnature"
+    ],
+    
+		"requires": []
+  },
+  {
+    "name": "Place 500 slabs (FO)",
+    "category": ["final objectives"],
+    "requires": [],
+    "place_item": ["Final Objective"]
+  },
+  {
+    
+		"name": "Craft a pure daisy",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms| and |Water|"
+  },
+  {
+    
+		"name": "Obtain livingrock",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms| and |Water|",
+    
+		"region": "Cobble"
+  },
+  {
+    "name": "Obtain Endoflame",
+    "region": "Cobble", 
+    "requires": "|Grass Block| and |Petal Apothecary| AND |Mushrooms| and |Water|",
+    "category": ["MythicalBotany"]
+  },
+  {
+    "name": "Obtain Hydroangeas",
+    "region": "Cobble", 
+    "requires": "|Petal Apothecary| AND |Mushrooms| and |Water| and |Grass Block| or (|Lapis sapling| and ({YamlDisabled(use_saplings)} and |Lapis|)) and |Cactus| and (|Sand sapling| or ({YamlDisabled(use_saplings)} and |Sand|))",
+    "category": ["MythicalBotany"]
+  },
+  {
+    
+		"name": "Craft a mana pool",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms| and |Water| and |Grass Block| or (|Lapis sapling| and ({YamlDisabled(use_saplings)} and |Lapis|) and |Cactus| and (|Sand sapling| or ({YamlDisabled(use_saplings)} and |Sand|))",
+    
+		"region": "Cobble"
+  },
+  {
+    
+		"name": "Obtain a mana pearl",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms| and |Water| and |Grass Block| or (|Lapis sapling| and ({YamlDisabled(use_saplings)} and |Lapis|) and |Cactus| and (|Sand sapling| or ({YamlDisabled(use_saplings)} and |Sand|))",
+    
+		"region": "Cobble"
+  },
+  {
+    
+		"name": "Obtain a Alchemy Catalyst",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms| AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) AND |Village| and |Water| and |Grass Block| or (|Lapis sapling| and ({YamlDisabled(use_saplings)} and |Lapis|) and |Cactus| and (|Sand sapling| or ({YamlDisabled(use_saplings)} and |Sand|))",
+    
+		"region": "Cobble"
+  },
+  {
+    
+		"name": "Obtain a Fern",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms| AND |Village| AND |Grass Block| AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) and |Water| and |Grass Block| or (|Lapis sapling| and ({YamlDisabled(use_saplings)} and |Lapis|) and |Cactus| and (|Sand sapling| or ({YamlDisabled(use_saplings)} and |Sand|))",
+    
+		"region": "Iron"
+  },
+  {
+    
+		"name": "Obtain a Fern (FO)",
+    "category": ["final objectives"],
+		"requires": "|Petal Apothecary| AND |Mushrooms| AND |Village| AND |Grass Block| AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) and |Grass Block| or (|Lapis sapling| and ({YamlDisabled(use_saplings)} and |Lapis|) and |Cactus| and (|Sand sapling| or ({YamlDisabled(use_saplings)} and |Sand|))",
+		"region": "Iron", 
+    "place_item": ["Final Objective"]
+  },
+  {
+    
+		"name": "Craft a Runic alter",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms|",
+    
+		"region": "Cobble"
+  },
+  {
+    
+		"name": "Obtain a Elven Gateway Core",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Elven Gateway Core|"
+  },
+  {
+    
+		"name": "Craft manasteel leggings",
+    
+		"region": "Iron",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms| and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
+  },
+  {
+    
+		"name": "Craft manasteel helmet",
+    
+		"region": "Iron",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms| and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
+  },
+  {
+    
+		"name": "Craft manasteel boots",
+    
+		"region": "Iron",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms| and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
+  },
+  {
+    
+		"name": "Craft manasteel chestplate",
+    
+		"region": "Iron",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms| and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
+  },
+  {
+    
+		"name": "Craft the full manasteel armour set",
+    
+		"region": "Iron",
+    
+		"category": [
+      "MythicalBotany"
+    ],
+    
+		"requires": "|Petal Apothecary| AND |Mushrooms| and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
+  },
+  {
+    "name": "Complete all final objectives",
+    "requires": "|Final Objective:9| or ({YamlDisabled(use_saplings)} and |Final Objective:10|)",
+    "victory": true
+  }
+]

@@ -1,0 +1,38 @@
+{
+    "Tinkers": {
+        "yaml_option": ["enable_tinkers"]
+    },
+    "Furnature": {
+        "yaml_option": ["enable_furnature"]
+    },
+    "Farming": {
+        "yaml_option": ["enable_farming"]
+    },
+    "Machines": {
+        "yaml_option": ["enable_machines"]
+    },
+    "dimensions": {
+        "yaml_option": ["enable_dimensions"]
+    },
+    "Gadgets": {
+        "yaml_option": ["enable_gadgets"]
+    },
+    "Other": {
+        "yaml_option": ["enable_other"]
+    },
+    "filler items": {
+        "yaml_option": ["enable_filler_items"]
+    },
+    "Traps": {
+        "yaml_option": ["enable_trap_items"]
+    },
+    "Ars Nouveau": {
+        "yaml_option": ["enable_ars_nouveau"]
+    },
+    "Saplings": {
+        "yaml_option": ["use_saplings"]
+    },
+    "Resources": {
+        "yaml_option": ["!use_saplings"]
+    }
+}

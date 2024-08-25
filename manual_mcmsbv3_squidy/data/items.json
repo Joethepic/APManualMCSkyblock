@@ -1,0 +1,892 @@
+[
+  {
+    
+		"count":  1,
+    
+		"name": "Iron sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Powerded Snow Bucket",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Petrified sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Petal Apothecary",
+    
+		"category": [
+      "items"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Spawner",
+    
+		"category": [
+      "filler items"
+    ],
+    
+		"count":  1,
+    
+		"useful": true
+  },
+  {
+    
+		"name": "Zombie spawn egg",
+    
+		"category": [
+      "filler items"
+    ],
+    
+		"count":  1,
+    
+		"useful": true
+  },
+  {
+    
+		"name": "Skeleton spawn egg",
+    
+		"category": [
+      "filler items"
+    ],
+    
+		"count":  1,
+    
+		"useful": true
+  },
+  {
+    
+		"name": "Endermen spawn egg",
+    
+		"category": [
+      "filler items"
+    ],
+    
+		"count":  1,
+    
+		"useful": true
+  },
+  {
+    
+		"name": "Spider spawn egg",
+    
+		"category": [
+      "filler items"
+    ],
+    
+		"count":  1,
+    
+		"useful": true
+  },
+  {
+    
+		"count": "75",
+    
+		"name": "Victory piece",
+    
+		"category": [
+      "Victory"
+    ],
+    
+		"progression_skip_balancing": true
+  },
+  {
+		"name": "Final Objective",
+		"count":  10,
+		"category": [
+      "Victory"
+    ],
+		"progression": true
+  },
+  {
+    
+		"name": "Glowstone sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"count": "3",
+    
+		"name": "Progressive Tinkers Stations",
+    
+		"category": [
+      "Tinkers",
+      "Recipes"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "1",
+    
+		"name": "Tin sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "1",
+    
+		"name": "Bamboo",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  3,
+    
+		"name": "Progressive Tinkers Smeltery",
+    
+		"category": [
+      "Tinkers",
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Bee stuff",
+    
+		"category": [
+      "structures"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Certus Quarts",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Netherrack sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Lead Sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Gravel sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Sand sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Silver sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Copper sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Village",
+    
+		"category": [
+      "structures"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Grout",
+    
+		"category": [
+      "Recipes"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "donut sapling",
+    
+		"category": [
+      "Recipes",
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Portal Gun",
+    
+		"category": [
+      "filler items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Nether",
+    
+		"category": [
+      "dimensions"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Osmium sapling",
+    
+		"category": [
+      "Saplings",
+      "Applied energetics 2"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Metallurgic Infuser",
+    
+		"category": [
+      "Recipes",
+      "Applied energetics 2"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Gold sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Lapis sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Greenheart sapling",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Sugar Cane",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Vines",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Cactus",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "22",
+    
+		"name": "Bonsi pot",
+    
+		"category": [
+      "filler items",
+      "Saplings"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Grass Block",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Water",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Regular saplings",
+    
+		"category": [
+      "Saplings"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Netherrite",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Lava",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "End city",
+    
+		"category": [
+      "structures"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  55,
+    
+		"name": "16 bread",
+    
+		"category": [
+      "filler items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Crops",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "1",
+    
+		"name": "Throw 64 of any item into the void ",
+    
+		"category": [
+      "Traps"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count": "4",
+    
+		"name": "64k ME storage cell",
+    
+		"category": [
+      "filler items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "3",
+    
+		"name": "16k ME storage cell",
+    
+		"category": [
+      "filler items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "4k ME storage cell",
+    
+		"category": [
+      "filler items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "1",
+    
+		"name": "1k ME storage cell",
+    
+		"category": [
+      "filler items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Dragons Breath",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Mushrooms",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Generator",
+    
+		"category": [
+      "items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"category": [
+      "items"
+    ],
+    
+		"name": "Basalt",
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Iron",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  5,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Cobble",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Sand",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Lapis",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Diamonds",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Regular wood",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Gold",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Tin",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Copper",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Osmium",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Quarts",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Lead",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Silver",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Gravel",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Slimeballs",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Redstone",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Glowstone",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Netherrack",
+    
+		"category": [
+      "Resources"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Elven Gateway Core",
+    
+		"category": [
+      "items"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  }
+]

@@ -1,3 +1,10 @@
+# 3.0
+## apworld side
+- created new use_saplings setting so you can get resources directly instead of through saplings
+- created new checks and catgories of checks
+- created new final objective goal so you have to complete 10 or 9 specific checks depending on weither use_saplings is on or not to complete the game.
+## pack side
+- new mods
 # 2.1 
 ## apworld side
 - updated to recent unstable build

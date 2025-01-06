@@ -10,6 +10,26 @@
 		"requires": "|Victory piece:50|"
   },
   {
+    "name": "Starting location 1",
+    "category": ["Starting locations"]
+  },
+  {
+    "name": "Starting location 2",
+    "category": ["Starting locations"]
+  },
+  {
+    "name": "Starting location 3",
+    "category": ["Starting locations"]
+  },
+  {
+    "name": "Starting location 4",
+    "category": ["Starting locations"]
+  },
+  {
+    "name": "Starting location 5",
+    "category": ["Starting locations"]
+  },
+  {
     
 		"name": "Cobblestone",
     
@@ -64,7 +84,7 @@
     
 		"region": "Iron",
     
-		"requires": []
+		"requires": "(|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|))"
   },
   {
     
@@ -324,9 +344,7 @@
     
 		"category": [
       "Furnature"
-    ],
-    
-		"requires": []
+    ]
   },
   {
     
@@ -384,7 +402,7 @@
       "Furnature"
     ],
     
-		"requires": "( |Village| OR |Cactus| AND |Grass Block| )"
+		"requires": "|Village| OR (|Cactus| AND |Grass Block| )"
   },
   {
     
@@ -868,7 +886,7 @@
       "Other"
     ],
     
-		"requires": []
+		"region": "Cobble"
   },
   {
     
@@ -1197,9 +1215,7 @@
     
 		"category": [
       "Armor"
-    ],
-    
-		"requires": []
+    ]
   },
   {
     
@@ -1414,7 +1430,7 @@
       "Furnature"
     ],
     
-		"requires": "(|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND ( |Grass Block| OR |Village| )",
+		"requires": "(|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND |Grass Block|",
     
 		"region": "Cobble"
   },
@@ -1508,7 +1524,7 @@
       "Farming"
     ],
     
-		"requires": "|Village| OR (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|) AND |Cactus| AND (|Lapis sapling| OR ({YamlDisabled(use_saplings)}) and |Lapis|) OR |Grass Block|"
+		"requires": "|Village| OR ((|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|)) or (|Water| and |Lava|) AND |Cactus| AND (|Lapis sapling| OR ({YamlDisabled(use_saplings)}) and |Lapis|) OR |Grass Block|"
   },
   {
     
@@ -1687,9 +1703,7 @@
     
 		"category": [
       "Vanilla Advancements"
-    ],
-    
-		"requires": []
+    ]
   },
   {
     
@@ -2184,7 +2198,7 @@
     
 		"region": "Iron",
     
-		"requires": "|End city| AND (|Lapis sapling| OR ({YamlDisabled(use_saplings)} and |Lapis|)) OR |Grass Block|"
+		"requires": "|End city| AND (|Lapis sapling| OR ({YamlDisabled(use_saplings)} and |Lapis|) OR |Grass Block|)"
   },
   {
     
@@ -2533,7 +2547,7 @@
       "MythicalBotany"
     ],
     
-		"requires": "|Petal Apothecary| AND |Mushrooms| and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
+		"requires": "|Petal Apothecary| AND |Mushrooms| and |Water| and |Grass Block| or (|Lapis sapling| and ({YamlDisabled(use_saplings)} and |Lapis|) and |Cactus| and (|Sand sapling| or ({YamlDisabled(use_saplings)} and |Sand|)) and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
   },
   {
     
@@ -2545,7 +2559,7 @@
       "MythicalBotany"
     ],
     
-		"requires": "|Petal Apothecary| AND |Mushrooms| and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
+		"requires": "|Petal Apothecary| AND |Mushrooms| and |Water| and |Grass Block| or (|Lapis sapling| and ({YamlDisabled(use_saplings)} and |Lapis|) and |Cactus| and (|Sand sapling| or ({YamlDisabled(use_saplings)} and |Sand|)) and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
   },
   {
     
@@ -2557,7 +2571,7 @@
       "MythicalBotany"
     ],
     
-		"requires": "|Petal Apothecary| AND |Mushrooms| and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
+		"requires": "|Petal Apothecary| AND |Mushrooms| and |Water| and |Grass Block| or (|Lapis sapling| and ({YamlDisabled(use_saplings)} and |Lapis|) and |Cactus| and (|Sand sapling| or ({YamlDisabled(use_saplings)} and |Sand|)) and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
   },
   {
     
@@ -2569,7 +2583,7 @@
       "MythicalBotany"
     ],
     
-		"requires": "|Petal Apothecary| AND |Mushrooms| and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
+		"requires": "|Petal Apothecary| AND |Mushrooms| and |Water| and |Grass Block| or (|Lapis sapling| and ({YamlDisabled(use_saplings)} and |Lapis|) and |Cactus| and (|Sand sapling| or ({YamlDisabled(use_saplings)} and |Sand|)) and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
   },
   {
     
@@ -2581,7 +2595,7 @@
       "MythicalBotany"
     ],
     
-		"requires": "|Petal Apothecary| AND |Mushrooms| and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
+		"requires": "|Petal Apothecary| AND |Mushrooms| and |Water| and |Grass Block| or (|Lapis sapling| and ({YamlDisabled(use_saplings)} and |Lapis|) and |Cactus| and (|Sand sapling| or ({YamlDisabled(use_saplings)} and |Sand|)) and (|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or (|Water| and |Lava|)"
   },
   {
     "name": "Complete all final objectives",

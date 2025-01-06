@@ -1,3 +1,6 @@
+# 3.1 
+## apworld side
+- many logic fixes
 # 3.0
 ## apworld side
 - created new use_saplings setting so you can get resources directly instead of through saplings

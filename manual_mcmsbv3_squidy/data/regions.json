@@ -7,7 +7,7 @@
     
 		"connects_to": [],
     
-		"requires": "|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Nether| AND |Iron sapling| AND |Lava| AND (|Petrified sapling| OR {YamlDisabled(use_saplings)}) AND |Water|"
+		"requires": "|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Nether| AND |Lava| AND (|Petrified sapling| OR ({YamlDisabled(use_saplings)} AND |Water|) or |Cobble|) and (|Iron sapling| OR ({YamlDisabled(use_saplings)} and |Iron|))"
   },
   "Diamonds": {
     
@@ -25,7 +25,7 @@
     
 		"connects_to": [],
     
-		"requires": "|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Certus Quarts| AND (|Osmium sapling| OR ({YamlDisabled(use_saplings)} and |Osmium|)) AND (|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND (|Copper sapling| OR ({YamlDisabled(use_saplings)} and |Copper|)) AND (|Iron sapling| OR ({YamlDisabled(use_saplings)} and |Iron|)) AND |Water| AND |Lava| AND |Grass Block| AND (|Netherrack sapling| or ({YamlDisabled(use_saplings)} and |Quarts|)) AND |Generator| and (|Petal Apothecary| AND |Mushrooms| AND (|Gold sapling| or ({YamlDisabled(use_saplings)} AND |Gold|)) AND |Village| and ((|Petrified sapling|) OR ({YamlDisabled(use_saplings)} AND |Cobble|) or |Water|) or (|Glowstone sapling| or ({YamlDisabled(use_saplings)} and |Glowstone|"
+		"requires": "|Progressive Tinkers Smeltery:3| AND (|Gravel sapling| OR ({YamlDisabled(use_saplings)} AND |Gravel|)) AND (|Sand sapling| OR ({YamlDisabled(use_saplings)} AND |Sand|)) AND |Grout| AND |Certus Quarts| AND (|Greenheart sapling| or ({YamlDisabled(use_saplings)} and |Slimeballs|)) AND (|Copper sapling| OR ({YamlDisabled(use_saplings)} and |Copper|)) AND (|Iron sapling| OR ({YamlDisabled(use_saplings)} and |Iron|)) AND |Water| AND |Lava| AND (|Netherrack sapling| or ({YamlDisabled(use_saplings)} and |Quarts|)) AND |Generator| AND |Village| and (|Glowstone sapling| or ({YamlDisabled(use_saplings)} and |Glowstone|)) and |Sky Stone| and (|Silver sapling| AND |Gold sapling| AND |Lapis sapling| AND |Grass Block| AND |Petrified sapling|) or ({YamlDisabled(use_saplings)} AND |Diamonds|)"
   },
   "Cobble": {
     

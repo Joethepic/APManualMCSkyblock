@@ -12,6 +12,16 @@
 		"progression": true
   },
   {
+    "name": "Archwood Sapling",
+    "progression": true,
+    "category": ["Saplings"]
+  },
+  {
+    "name": "Archwood Planks",
+    "progression": true,
+    "category": ["Resources"]
+  },
+  {
     
 		"count":  1,
     
@@ -121,11 +131,20 @@
   },
   {
 		"name": "Final Objective",
-		"count":  10,
+		"count":  11,
 		"category": [
-      "Victory"
+      "FO"
     ],
 		"progression": true
+  },
+  {
+    "name": "Sky Stone",
+    "count": 1,
+    "category": 
+    [
+      "Applied energetics 2"
+    ],
+    "progression": true
   },
   {
     
@@ -531,7 +550,7 @@
   },
   {
     
-		"count":  55,
+		"count":  1,
     
 		"name": "16 bread",
     
@@ -557,7 +576,7 @@
     
 		"count": "1",
     
-		"name": "Throw 64 of any item into the void ",
+		"name": "Throw 64 of any item into the void",
     
 		"category": [
       "Traps"
@@ -567,7 +586,7 @@
   },
   {
     
-		"count": "4",
+		"count": "1",
     
 		"name": "64k ME storage cell",
     
@@ -668,6 +687,15 @@
 		"category": [
       "Resources"
     ],
+		"progression": true
+  },
+  {
+    
+		"name": "Zinc",
+		"category": [
+      "items"
+    ],
+    
 		"progression": true
   },
   {

@@ -34,5 +34,11 @@
     },
     "Resources": {
         "yaml_option": ["!use_saplings"]
+    },
+    "MythicalBotany": {
+        "yaml_option": ["enable_MythicalBotany"]
+    },
+    "Victory": {
+        "yaml_option": ["enable_victory"]
     }
 }

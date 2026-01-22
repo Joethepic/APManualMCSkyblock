@@ -1,7 +1,8 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "MCMSBV3",
-  "creator": "squidyv1",
+  "game": "MCMSBV5",
+  "creator": "squidy",
   "filler_item_name": "Nothing",
-  "starting_items": []
+  "starting_items": [],
+  "death_link": true
 }
